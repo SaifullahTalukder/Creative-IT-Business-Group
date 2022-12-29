@@ -1,0 +1,829 @@
+@media (min-width:1400px) and (max-width:1899.98px){
+    .banner_img .banner_left {
+        margin: -10px 0 0 -4px;
+        width: 668px;
+    }
+    .banner_img .banner_right {
+        right: -49px;
+    }
+    .iso_img img {
+        width: 600px;
+        margin-left: -53px;
+    }
+    .video_icon {
+        top: 109px;
+        right: 224px;
+    }
+    .iso_victor {
+        left: 112px;
+    }
+    .testimonial_img img {
+        margin-left: -53px;
+        width: 550px;
+    }
+    .consern_victor img {
+        margin-left: -53px;
+    }
+    .sister_consern_content {
+        padding: 0 63px 0 73px;
+    }
+    .testimonial_bg_right {
+        left: 89.5%;
+    }
+    .testimonial_bg_right img{
+        width: 138px;
+    }
+    .testimonial_drag {
+        right: -2%;
+    }
+    .testimonial_drag a {
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+    }
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+    #myNav ul li a {
+        font-size: 15px;
+        margin-left: 19px;
+    }
+    .banner_img .banner_right {
+        right: -39px;
+        top: -99px;
+    }
+    .banner_img .banner_left {
+        margin: -10px 0 0 33px;
+        width: 552px;
+    }
+    .iso_img img {
+        width: 552px;
+        margin-left: -42px;
+    }
+    h2 {
+        font-size: 51px;
+        line-height: 66px;
+    }
+    .iso_content .iso_content_top {
+        font-size: 28px;
+        padding: 0 25px 0 0;
+    }
+    .iso_content p {
+        font-size: 25px;
+        line-height: 42px;
+        color: #FFFFFF;
+        padding: 30px 80px 0 0;
+    }
+    .button.is-play {
+        width: 86px;
+        height: 86px;
+    }
+    .video_icon {
+        top: 91px;
+        right: 170px;
+    }
+    .iso_victor {
+        left: 120px;
+        bottom: 63px;
+    }
+    .iso_victor img{
+        width: 120px;
+    }
+    p {
+        font-size: 18px;
+        padding: 36px 0;
+    }
+    .sister_consern_content {
+        padding: 0 14px 0 71px;
+    }
+    .our_consern_logos {
+        width: 158px;
+        height: 85px;
+        line-height: 85px;
+        margin: 12px 0;
+    }
+    .testimonial_img img {
+        margin-left: -42px;
+        width: 512px;
+    }
+    .consern_victor img {
+        margin-left: -42px;
+        width: 240px;
+    }
+    .testimonial_victor img {
+        width: 70px;
+        margin-left: 18px;
+    }
+    .testimonial_bg_right {
+        left: 89.5%;
+    }
+    .testimonial_bg_right img{
+        width: 125px;
+    }
+    .testimonial_drag a {
+        width: 99px;
+        height: 99px;
+        line-height: 99px;
+        font-size: 15px;
+    }
+    .testimonial_drag {
+        right: -3%;
+    }
+    #counter_part {
+        padding: 120px 0;
+    }
+    .awards_content h4 {
+        padding: 10px 53px 10px 0;
+    }
+    .awards_content_last h4 {
+        padding: 10px 10px 10px 0;
+    }
+    .footer_form button {
+        margin-left: 10px;
+    }
+    #banner_part {
+        padding-top: 30px;
+    }
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    #banner_part {
+        padding-top: 30px;
+    }
+    #myNav ul li a {
+        font-size: 14px;
+        margin-left: 12px;
+    }
+    p {
+        font-size: 17px;
+        padding: 24px 0;
+    }
+    h2 {
+        font-size: 43px;
+        line-height: 56px;
+    }
+    .iso_content p {
+        font-size: 23px;
+        padding: 30px 19px 0 41px;
+    }
+    .iso_img img {
+        width: 528px;
+        margin-left: -27px;
+    }
+    .banner_img .banner_left {
+        margin: -10px 0 0 -33px;
+        width: 499px;
+    }
+    .banner_img .banner_right {
+        right: -28px;
+        top: -112px;
+    }
+    .banner_img .banner_right img{
+        width: 199px;
+    }
+    .iso_content .iso_content_top {
+        font-size: 24px;
+        line-height: 39px;
+        padding: 0 0px 0 36px;
+    }
+    .button.is-play {
+        width: 80px;
+        height: 80px;
+    }
+    .video_icon {
+        top: 68px;
+        right: 173px;
+    }
+    .iso_victor {
+        left: 137px;
+        bottom: 56px;
+    }
+    .iso_victor img{
+        width: 100px;
+    }
+    .our_consern_logos {
+        width: 140px;
+        height: 78px;
+        line-height: 78px;
+        margin: 8px 0;
+    }
+    .our_consern_logos img {
+        width: 66%;
+    }
+    #our_consern_part{
+        overflow: hidden;
+    }
+    .consern_victor img {
+        margin-left: -42px;
+        width: 199px;
+        transform: rotate(3deg);
+    }
+    .sister_consern_content {
+        padding: 0 10px 0 39px;
+    }
+    .testimonial_img img {
+        margin-left: -28px;
+        width: 490px;
+    }
+    .testimonial_victor {
+        margin-top: 50px;
+        margin-left: 39px;
+    }
+    .testimonial_bg_right {
+        left: 88.5%;
+    }
+    .testimonial_drag a {
+        width: 90px;
+        height: 90px;
+        line-height: 90px;
+        font-size: 13px;
+    }
+    .testimonial_drag {
+        right: -3%;
+    }
+    .testimonial_bg_right img{
+        width: 113px;
+    }
+    .counter_items {
+        margin-left: 0px;
+    }
+    #counter_part {
+        padding: 110px 0;
+        background: var(--banner-font);
+    }
+    .awards_img img {
+        margin-right: -49px;
+    }
+    .awards_content h4 {
+        padding: 10px 42px 10px 0;
+        font-size: 20px;
+    }
+    .awards_content p {
+        font-size: 15px;
+    }
+    .awards_content_last h4 {
+        padding: 10px 0px 10px 0 !important;
+    }
+    .news_content h3 {
+        font-size: 28px;
+        padding: 10px 42px 0 0;
+    }
+    #news_part {
+        padding: 16px 0 68px 0;
+    }
+    .footer_form button {
+        width: 148px;
+        height: 55px;
+        font-size: 17px;
+        line-height: 55px;
+        margin: -10px 0 0 10px;
+    }
+    .footer_form h4::after {
+        width: 226px;
+    }
+    .backtop {
+        height: 64px;
+        width: 64px;
+        line-height: 64px;
+        right: 15px;
+        bottom: 27px;
+    }
+    .footer_items a, .footer_items p, .footer_items h5 {
+        font-size: 16px;
+    }
+    .footer_form .call {
+        margin-top: 41px;
+    }
+    .testimonial_victor img{
+        width: 55px;
+        margin-left: 28px;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    p {
+        font-size: 18px;
+        padding: 15px 0;
+    }
+    .banner_content{
+        padding: 50px;
+    }
+    .banner_img .banner_left {
+        margin: -10px 0 0 -36px;
+        width: 682px;
+    }
+    .banner_img .banner_right {
+        right: -34px;
+        top: -18px;
+    }
+    .banner_img .banner_right img{
+        width: 218px;
+    }
+    .testimonial_content {
+        margin-top: 19px;
+        text-align: center;
+    }
+    .counter_items {
+        margin: 20px 50px;
+    }
+    #awards_part {
+        padding: 56px 0 24px 0;
+    }
+    .section_heading p {
+        padding: 16px;
+    }
+    .awards_content h4 {
+        font-size: 24px;
+        padding: 10px 117px 10px 0;
+    }
+    .awards_items_wrapper {
+        margin: 40px 0;
+    }
+    .awards_content_last h4{
+        padding: 10px 85px 10px 0 !important;
+    }
+    .f_m{
+        margin-top: 20px !important;
+    }
+    .footer_form button{
+        margin-top: 10px;
+    }
+    .footer_form .call {
+        margin-top: 15px;
+    }
+    
+}
+@media (max-width:991.98px){
+    #banner_part {
+        padding-top: 30px;
+    }
+    .main_menu img {
+        padding: 10px 0;
+    }
+    .menuFix {
+        top: -41px;
+    }
+    .iso_img img {
+        width: 670px;
+        margin-left: 5px;
+    }
+    .iso_victor {
+        position: absolute;
+        left: 191px;
+        bottom: 90px;
+        transform: translateX(-50px);
+    }
+    .iso_content{
+        padding: 55px 47px;
+    }
+    .logos_consern, .sister_consern_content {
+        margin-top: 62px;
+        text-align: center;
+    }
+    .sister_consern_content {
+        padding:  0;
+    }
+    .cbtn {
+        display: block;
+        margin: auto;
+    }
+    .our_consern_logos {
+        margin: 15px 21px;
+    }
+    .testimonial_img img {
+        margin: auto;
+        display: block;
+    }
+    #testimonial_part {
+        padding: 40px 0;
+    }
+    .testimonial_victor {
+        margin-top: 30px;
+    }
+    .testimonial_victor img{
+        display: block;
+        margin: auto;
+    }
+    #counter_part {
+        padding: 38px 0;
+    }
+    .awards_button a {
+        margin-top: 25px;
+    }
+    #news_part {
+        padding: 32px 0 35px 0;
+    }
+    #mobile_menu{
+        background: #252C6D;
+    }
+    #mobile_menu .modal-dialog {
+        width: 100% !important;
+        height: 100%;
+        padding: 0;
+    }
+    .modal-dialog {
+        max-width: 100% !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #mobile_menu .clbtn{
+        color: #fff;
+        background: transparent;
+        float: right;
+        border: none;
+    }
+    .mble_menu ul li a{
+        font-family: 'Futura Bk BT',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #4978BC;;
+        margin: 15px 0;
+    }
+    .mble_menu ul li .active,
+    .mble_menu ul li a a:hover{
+        color: #fff !important;
+        font-weight: 700;
+    }
+    #mobile_menu .container{
+        height: 100%;
+    }
+    #mobile_menu .modal-body{
+        height: 100%;
+        width: 100%;
+    }
+    #mobile_menu .modal-body .mble_menu{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .our_consern_logos {
+        width: 158px;
+        margin: 15px 0;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .iso_victor {
+        left: 148px;
+        bottom: 66px;
+    }
+    .counter_items {
+        margin: 15px 140px;
+    }
+}
+@media (max-width:767.98px){
+    .banner_img .banner_left {
+        margin: 0 0 0 -30px;
+    }
+    .banner_img .banner_right {
+        right: -29px;
+        top: -19px;
+    }
+    .banner_img .banner_right img {
+        width: 170px;
+    }
+    .banner_content {
+       padding: 50px 0;
+    }
+    h2 {
+        font-weight: 700;
+        font-size: 58px;
+        line-height: 72px;
+    }
+    .iso_img img {
+        width: 571px;
+        margin-left: -29px;
+    }
+    .iso_content .iso_content_top {
+        font-size: 24px;
+        padding: 0;
+    }
+    .iso_content p {
+        font-size: 24px;
+        line-height: 38px;
+        padding: 26px 0px 15px 0;
+    }
+    p {
+        padding: 18px 0;
+    }
+    .logos_consern, .sister_consern_content {
+        margin-top: 40px;
+    }
+    .testimonial_victor img {
+        width: 60px;
+    }
+    .testimonial_content {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .awards_img {
+        display: block;
+        margin: auto;
+    }
+    .awards_content {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .awards_content h4{
+        padding: 0;
+    }
+    .awards_content h4 {
+        padding: 3px 126px;
+        font-weight: 700;
+    }
+    .awards_items_wrapper{
+        margin: 25px 0;
+    }
+    .section_heading p {
+        padding: 12px;
+    }
+    #awards_part {
+        padding: 72px 0 35px 0;
+    }
+    #footer_part {
+        padding: 60px 0 41px 0;
+    }
+    .footer_items{
+        padding-bottom: 20px;
+    }
+    .footer_items h4 {
+        padding-bottom: 14px;
+    }
+    .footer_form button{
+        margin-top: 20px;
+    }
+    .footer_form .call {
+        margin-top: 31px;
+    }
+    .backtop {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        right: 28px;
+        bottom: 28px;
+    }
+    .video_icon {
+        top: 89px;
+        right: 138px;
+    }
+    .button.is-play {
+        width: 80px;
+        height: 80px;
+    }
+}
+@media (max-width:575.98px){
+    .iso_img img {
+        width: 104%;
+        margin-left: -10px;
+    }
+    .our_consern_logos {
+        width: 148px;
+        height: 76px;
+        line-height: 76px;
+        margin: 8px 0;
+        border-radius: 10px;
+    }
+    .our_consern_logos img{
+        width: 60%;
+    }
+    #mobile_menu{
+        padding: 0 !important;
+    }
+    .banner_img .banner_left {
+        margin: 0px 0 0 -12px;
+        width: 96%;
+    }
+    .banner_img .banner_right {
+        right: -19px;
+        top: 39px;
+    }
+    .banner_img .banner_right img {
+        width: 150px;
+    }
+    .banner_img .banner_left {
+        margin: 0px 0 0 -12px;
+        width: 99%;
+    }
+    #banner_part {
+      overflow: hidden;
+    }
+    .video_icon {
+        top: 90px;
+        right: 135px;
+    }
+    .button.is-play {
+        width: 70px;
+        height: 70px;
+    }
+    h2 {
+        font-size: 53px;
+        line-height: 57px;
+    }
+    .iso_content .iso_content_top {
+        font-size: 19px;
+        line-height: 36px;
+    }
+    .iso_content p {
+        font-size: 19px;
+        line-height: 34px;
+    }
+    .iso_content {
+        padding: 40px 10px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .counter_items {
+        margin: 15px 106px;
+    }
+    .awards_content h4 {
+        padding: 1px 104px;
+    }
+    .news_content h3 {
+        font-size: 26px;
+        padding: 5px 0px 0 0;
+    }
+    .awards_button a {
+        width: 166px;
+        height: 54px;
+        line-height: 54px;
+        margin-top: 0px;
+        font-size: 18px;
+    }
+    #news_part {
+        padding: 0px 0 15px 0;
+    }
+    .iso_victor {
+        left: 168px;
+        bottom: 64px;
+    }
+    .iso_victor img{
+        width: 90px;
+    }
+    .footer_form button {
+        width: 135px;
+        height: 50px;
+        font-size: 18px;
+        line-height: 50px;
+    }
+}
+@media (max-width:500px){
+    .banner_img .banner_right img {
+        width: 136px;
+    }
+    .banner_img .banner_right {
+        right: -12px;
+        top: 23px;
+    }
+    .banner_img .banner_left {
+        margin: 0px 0 0 -12px;
+        width: 98%;
+    }
+    h2 {
+        font-size: 47px;
+        line-height: 57px;
+    }
+    .iso_victor {
+        left: 147px;
+    }
+    .our_consern_logos {
+        width: 132px;
+    }
+}
+@media (max-width:480px){
+    .banner_img .banner_right {
+        right: -10px;
+        top: 4px;
+    }
+    .banner_img .banner_left {
+        margin: 0px 0 0 -12px;
+        width: 97%;
+    }
+    .banner_img .banner_right img {
+        width: 136px;
+    }
+    .awards_content h4 {
+        padding: 3px 65px;
+    }
+    .video_icon {
+        top: 59px;
+        right: 124px;
+    }
+}
+@media (max-width:440px){
+    .banner_img .banner_right {
+        right: -27px;
+        top: -32px;
+    }
+    h2 {
+        font-size: 43px;
+        line-height: 57px;
+    }
+    .iso_victor {
+        left: 127px;
+        bottom: 50px;
+    }
+    .video_icon {
+        top: 46px;
+        right: 104px;
+    }
+    .our_consern_logos {
+        width: 120px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .counter_items {
+        margin: 15px 68px;
+    }
+}
+@media (max-width:400px){
+    .banner_img .banner_right {
+        right: -29px;
+        top: -34px;
+    }
+    .banner_img .banner_right img {
+        width: 126px;
+    }
+    h2 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .counter_items {
+        margin: 15px 50px;
+    }
+    .awards_content h4 {
+        padding: 0px 40px;
+        font-weight: 700;
+    }
+    .news_content h3 {
+        font-size: 25px;
+    }
+    .iso_victor {
+        left: 118px;
+        bottom: 50px;
+    }
+    .iso_victor img{
+        width: 80px;
+    }
+    .video_icon {
+        top: 46px;
+        right: 92px;
+    }
+    .our_consern_logos {
+        width: 108px;
+        height: 63px;
+        line-height: 63px;
+    }
+}
+@media (max-width:360px){
+    .banner_img .banner_right {
+        right: -15px;
+        top: -6px;
+    }
+    .banner_img .banner_right img {
+        width: 106px;
+    }
+    h2 {
+        font-size: 35px;
+        line-height: 53px;
+    }
+    .our_consern_logos {
+        width: 94px;
+        height: 64px;
+        margin: 5px 0;
+    }
+    .awards_content h4 {
+        padding: 0px 19px;
+    }
+    .iso_victor {
+        left: 105px;
+        bottom: 33px;
+    }
+    .video_icon {
+        top: 46px;
+        right: 81px;
+    }
+    .counter_items {
+        margin: 15px 30px;
+    }
+}
+@media (max-width:340px){
+    .banner_img .banner_right {
+        right: -9px;
+        top: -8px;
+    }
+    .banner_img .banner_right img {
+        width: 98px;
+    }
+    h2 {
+        font-size: 33px;
+        line-height: 50x;
+    }
+    .news_content h3 {
+        font-size: 20px;
+    }
+    .iso_victor {
+        left: 97px;
+        bottom: 33px;
+    }
+
+}
